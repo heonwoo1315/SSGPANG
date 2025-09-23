@@ -22,11 +22,11 @@
 
 | 이름                                          | 역할                                                                                                                  |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [강기호](https://github.com/Khjin06k)  | |
-| [민소원](https://github.com/JoyWorlds)   |                                          |
-| [박헌우](https://github.com/peeljunKim) |                                |
-| [이가영](https://github.com/C-H-Kim)  |                                                     |
-| [이상우](https://github.com/H2ll0World) |     |
+| [강기호](https://github.com/kanggiho)  | |
+| [민소원](https://github.com/wishs2)   |                                          |
+| [박헌우](https://github.com/heonwoo1315) |                                |
+| [이가영](https://github.com/GaYoung28)  |                                                     |
+| [이상우](https://github.com/sangwooLee1231) |     |
 
 ## 💻 기술 스텍
 
